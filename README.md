@@ -1,1 +1,1 @@
-# GHCP-skill-elevation
+# Elevating Your Skills with GitHub Copilot
