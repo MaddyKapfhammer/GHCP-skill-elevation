@@ -39,7 +39,7 @@ Prompt:
 "Write a method to return the 5 slowest response times from the logs"
 ````
 
-🧠 Discussion: Did GitHub Copilot infer the correct sorting logic? Is it reading from `LogEntry.response_time`?
+Discussion: Did GitHub Copilot infer the correct sorting logic? Is it reading from `LogEntry.response_time`?
 
 ### 3. Improve Code: Add Type Annotations
 
@@ -52,7 +52,7 @@ Prompt:
 "Add type hints to all public methods in LogAnalyzer"
 ```
 
-✅ Review: How accurate were the suggestions? Did any types seem incorrect or too generic?
+Review: How accurate were the suggestions? Did any types seem incorrect or too generic?
 
 ### 4. Write Tests with Copilot
 
