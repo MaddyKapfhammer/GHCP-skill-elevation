@@ -19,7 +19,7 @@ You now have your own copy of all demo files that you can edit, run, and explore
 
 ## Requirements
 
-- [VS Code](https://code.visualstudio.com/)
+- [VS Code](https://code.visualstudio.com/) or any other GHCP-enabled IDE
 - [GitHub Copilot](https://github.com/features/copilot) enabled in your IDE
 - Python 3.x (for most examples)
 - Other dependencies may be listed in individual project folders
